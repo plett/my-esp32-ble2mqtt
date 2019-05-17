@@ -2,3 +2,6 @@
 	path = esp-idf
 	url = https://github.com/espressif/esp-idf.git
 	branch = v3.2
+[submodule "esp32-ble2mqtt"]
+	path = esp32-ble2mqtt
+	url = https://github.com/shmuelzon/esp32-ble2mqtt
